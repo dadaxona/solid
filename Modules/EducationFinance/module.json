@@ -1,0 +1,13 @@
+{
+    "name": "EducationFinance",
+    "alias": "educationfinance",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EducationFinance\\Providers\\EducationFinanceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

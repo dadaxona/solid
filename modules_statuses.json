@@ -1,0 +1,12 @@
+{
+    "User": true,
+    "CRM": true,
+    "Core": true,
+    "Education": true,
+    "EducationFinance": true,
+    "Finance": true,
+    "Game": true,
+    "Telegram": true,
+    "WMS": true,
+    "HR": true
+}

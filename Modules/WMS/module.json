@@ -1,0 +1,13 @@
+{
+    "name": "WMS",
+    "alias": "wms",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\WMS\\Providers\\WMSServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
